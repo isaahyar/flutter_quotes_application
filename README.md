@@ -1,6 +1,6 @@
 # Quotes app
 
-[Demo](https://github.com/isaahyar/flutter_quotes_application/blob/master/images/demo.gif)
+![Demo](https://github.com/isaahyar/flutter_quotes_application/blob/master/images/demo.gif)
 
 A quotes application to display quotes with nice background images
 
