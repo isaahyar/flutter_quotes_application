@@ -1,4 +1,4 @@
-# quotes_application
+# Quotes app
 
 A quotes application to display quotes with nice background images
 
